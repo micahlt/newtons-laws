@@ -1,5 +1,7 @@
 # newtons-laws
 
+Animated demonstrations of Newton's Laws of Motion
+
 ## Project setup
 ```
 npm install
